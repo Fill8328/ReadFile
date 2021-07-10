@@ -10,7 +10,7 @@ public class Main {
 
     public static void main(String[] args) throws InterruptedException, IOException {
         FileWriterUtil.allThread();
-        System.out.println(FileReaderUtil.readFile("/Users/user/Desktop/ReadFile/src/fill/jma/FileUtile/DemoText"));
-
+       // System.out.println(FileReaderUtil.readFile("/Users/user/Desktop/ReadFile/src/fill/jma/FileUtile/DemoText"));
+       // System.out.println(FileReaderUtil.readIntFromFile("/Users/user/Desktop/ReadFile/src/fill/jma/FileUtile/DemoText"));
     }
 }
